@@ -239,10 +239,23 @@ profile-photo .img{
 
 .education-content .row{
   display: flex;
+  justify-content: space-between;
   border-radius: 5px;
   height: 400px;
   margin-bottom: 250px;
 }
+
+.education-content .Imagen-Profesional{
+padding-top: 30px;
+
+}
+
+.Imagen_logo{
+  padding: 50px 0px 0px 0px;
+  width: 500px;
+  height: 500px;
+}
+
 
 .education-content .title{
   color: #fed700;
